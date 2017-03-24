@@ -78,14 +78,14 @@
               <img src="images/logo-wide.png" alt="">
             </a>
             <ul class="menuzord-menu">
-              <li class="active"><a href="#home">Главная</a></li>
-              <li><a href="#home">О Фонде</a></li>
-              <li><a href="#home">Нуждающиеся</a></li>
-              <li><a href="#home">Как помочь</a></li>
-              <li><a href="#home">Новости</a></li>
-              <li><a href="#home">Партнеры</a></li>
-              <li><a href="#home">Устав</a></li>
-              <li><a href="#home">Контакты</a></li>
+              <li class="active"><a href="{{ URL::to('/') }}">Главная</a></li>
+              <li><a href="{{ URL::to('history') }}">О Фонде</a></li>
+              <li><a href="{{ URL::to('causes') }}">Нуждающиеся</a></li>
+              <li><a href="{{ URL::to('help') }}">Как помочь</a></li>
+              <li><a href="{{ URL::to('news') }}">Новости</a></li>
+              <li><a href="{{ URL::to('partners') }}">Партнеры</a></li>
+              <li><a href="{{ URL::to('faq') }}">Частые вопросы</a></li>
+              <li><a href="{{ URL::to('contacts') }}">Контакты</a></li>
             </ul>
           </nav>
         </div>

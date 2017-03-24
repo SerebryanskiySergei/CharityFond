@@ -14,8 +14,8 @@
             <div class="row">
                 <div class="col-md-12 text-center">
                 <div class="inline-block pb-60 pl-40 pr-40 pt-90">
-                    <h1 class="text-uppercase text-white font-raleway font-weight-800 font-78 mb-10 mt-0">Твори <span class="text-theme-colored">Добро</span></h1>
-                    <p class="font-16 text-white text-left pull-left font-raleway letter-spacing-1 mb-20 ml-10"><em>Все прекрасные чувства в мире весят меньше, чем одно доброе дело.<br> Роберт Лоуэлл</em> </p>
+                    <h1 class="text-uppercase text-white font-raleway font-weight-800 font-78 mb-10 mt-0">Планета <span class="text-theme-colored">Добра</span></h1>
+                    <p class="font-16 text-white text-left pull-left font-raleway letter-spacing-1 mb-20 ml-10"><em>Счастье - это то, чего человек желает для себя одного;<br>благо - это то, что человек желает для себя вместе со всеми...<br>Л.Н. Толстой</em> </p>
                     <a class="btn btn-colored btn-theme-colored btn-flat pull-right" href="#">Помочь</a> 
                 </div>
                 </div>
